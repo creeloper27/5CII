@@ -7,3 +7,6 @@ quack!
 cocao
 
 rar
+
+
+![FIRE!](in_case_of_fire.png)
